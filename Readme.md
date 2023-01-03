@@ -17,4 +17,4 @@
 >    - 3: Convergers
 >    - 4: Accommodators
 
-5. 'clf.predict()'의 결과값을 자유롭게 사용해주세요.
+5. 'kolb_type'과 'kolb_percent'의 변수를 자유롭게 사용해주세요.
