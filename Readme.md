@@ -2,6 +2,7 @@
 >    - pip install --user numpy
 >    - pip install --user pandas
 >    - pip install --user sklearn
+>    - pip install --user graphviz
 
 2. "decisionTree.py" 파일에서 data.csv 경로가 올바른지 확인해주세요.
 
@@ -18,3 +19,6 @@
 >    - 4: Accommodators
 
 5. 'kolb_type'과 'kolb_percent'의 변수를 자유롭게 사용해주세요.
+
+cf. showTree.py에서 오류가 나는 경우, 아래의 블로그를 참고해주세요.
+>  https://free-eunb.tistory.com/14
