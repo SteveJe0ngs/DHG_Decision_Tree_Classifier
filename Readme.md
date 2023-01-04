@@ -5,6 +5,8 @@
 >    - pip install --user graphviz
 
 2. "decisionTree.py" 파일에서 data.csv 경로가 올바른지 확인해주세요.
+>   본 모델에서 사용된 data.csv는 공개범위 상의 문제로 업로드되어 있지 않습니다.
+>   data.csv 파일이 필요하신 경우, 따로 연락주시면 감사하겠습니다 :)
 
 3. "main.py" 파일에서 user 변수의 값을 필요에 맞게 변경해주세요.
 >    - I [1 ~ 10] E
